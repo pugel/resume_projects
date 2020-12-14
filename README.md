@@ -1,2 +1,9 @@
 # resume_projects
-Finishes projects for people to view
+Finished projects for people to view
+
+Projects ordered from most recent first:
+- 
+-
+- 
+- 
+- 
