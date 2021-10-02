@@ -2,6 +2,14 @@
 Finished projects for people to view
 
 Projects ordered from most recent first:
+- NCAA Tournament Bracket Prediction:
+  - Objective: Create an algorithm that predicts who will win each game in the NCAA tournament. *See pdf ppt for complete explanation of process
+- Query EDA Project - Business Recommendations
+  - Objective: Complete EDA by querying bike sharing data and write up business recommendation on new offers to create from analyzed bike trips. 
+- ML Topic Classification
+  - Objective: Classify newsgroup posts on a variety of topics into 1 of 4 different categories -trained and optimized three models using K-Nearest Neighbors, Naive-Bayes, and Logistic Regression algorithms. 
+- ML Digit Classification
+  - Objective: Use different image recognition techniques to find the optimum way to predict digits, used both K-Nearest Neighbors and Naive Bayes algorithms.
 - Multiple Linear Regression Analysis - COVID19 Data
   - Objective: develop a descriptive linear regression model using classical linear model assumptions. Complete intitial data cleaning and EDA then develop multiple models and chose the best model based on CLM limitations and model results. (R)
 - Research Design Proposal Report
