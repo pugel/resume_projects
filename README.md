@@ -2,6 +2,8 @@
 Finished projects for people to view
 
 Projects ordered from most recent first:
+- CO2 Levels Time Series Forecast:
+  - Objective: Create an Arima model using the CO2 levels dataset and graph CO2 level predictions. 
 - NCAA Tournament Bracket Prediction:
   - Objective: Create an algorithm that predicts who will win each game in the NCAA tournament. *See pdf ppt for complete explanation of process
 - Query EDA Project - Business Recommendations
